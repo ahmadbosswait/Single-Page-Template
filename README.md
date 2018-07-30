@@ -1,5 +1,5 @@
 # Single-Page-Template
-Portfolio template, design specifically for single page website
+Portfolio template, designed specifically for single page website
 
 # Page 2
 ![blog](https://user-images.githubusercontent.com/30505428/42973229-54fdecf0-8baa-11e8-94ab-fd916c335547.jpg)
